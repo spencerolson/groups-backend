@@ -1,24 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Simple chat app with react front-end + rails api back-end w/ actioncable.
 
-Things you may want to cover:
+![Chat app demo](public/chat-app.gif)
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+ChatApp frontend project [here](https://github.com/spencerolson/groups-frontend)
